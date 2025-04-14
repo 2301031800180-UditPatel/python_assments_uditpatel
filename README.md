@@ -1,4 +1,4 @@
-# python_assments_uditpatel
+# python_assignments_uditpatel
 Udit Patel, 2301031800180, Cse D-4
 
 # Image Classifier using TensorFlow and Keras
